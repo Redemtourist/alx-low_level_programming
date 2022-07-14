@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+	/*
+	 * adding a line of codeto a code given in the task
+	*/
+
 int main(void)
 
 {
