@@ -9,7 +9,6 @@
 	* - you are not allowed to code anything else
 	* than this line of code
 	*/
-
 void int main(void)
 
 {
@@ -19,8 +18,6 @@ void int main(void)
 
 	a[2] = 1024;
 	p = &n;
-	/* ...so that this prints 98\n */
-
 	printf("a[2] = %d\n", a[2]);
 	return (0);
 }
